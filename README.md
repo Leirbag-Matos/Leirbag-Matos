@@ -1,4 +1,4 @@
-Hii! Eu sou o Gabriel Matos 👋
+Hii! Eu sou o Gabriel Matos ✌️
 
 - 🔭 hoje trabalho com geoprocessamento e análise de dados ambientais. 
 - 🌱 Estou estudando sobre técnicas avançadas de geoprocessamento, modelagem e visualização de dados espaciais.
