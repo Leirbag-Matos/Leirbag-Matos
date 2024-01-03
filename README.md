@@ -8,6 +8,8 @@ Hii! Eu sou o Gabriel Matos ✌️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matos-Qgis" height="30" width="40" src="https://github.com/Leirbag-Matos/projetoGit/blob/main/qgis_official_logo_icon_169820.svg">
+  <img align="center" alt="Matos-blender" height="30" width="40" src="https://github.com/Leirbag-Matos/projetoGit/blob/main/Blender_23505.png">
 </div>
 
  ## 
